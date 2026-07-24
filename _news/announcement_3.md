@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2025-11-15 12:00:00-0300
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Our project on the open cluster NGC 1039 won **Best Work** at JICON for the second year in a row (2025).
