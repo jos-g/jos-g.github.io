@@ -26,8 +26,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Master's student in Astronomy at the [Observatório Nacional](https://www.gov.br/observatorionacional/) (ON), Brazil, and a CNPq research fellow there. I hold a Bachelor's degree in Physics from the Universidade do Estado do Rio de Janeiro (UERJ, 2020–2025), where I am currently completing a teaching qualification (Licenciatura) in Physics as well.
+I am a Master's student in Astronomy at the [Observatório Nacional](https://www.gov.br/observatorionacional/) (ON), Brazil, and a CAPES research fellow there. I hold a Bachelor's degree in Physics from the Universidade do Estado do Rio de Janeiro (UERJ, 2020–2025).
 
-My research focuses on stellar astrophysics, with an emphasis on open clusters studied through large photometric surveys. I am currently investigating the open cluster NGC 1039 using data from the [J-PLUS](https://www.j-plus.es/) survey (Javalambre Photometric Local Universe Survey), applying color-magnitude diagrams and isochrone fitting to determine physical parameters such as metallicity, age, reddening, and distance, under the supervision of Simone Daflon dos Santos. This project was awarded Best Work at the Observatório Nacional's Undergraduate Research Symposium (JICON) in both 2024 and 2025.
-
-Previously, I was part of the interdisciplinary teaching and outreach project "A Física na Música" ("Physics in Music", 2021–2023) at UERJ, exploring the physics of sound and musical acoustics.
+Previously, my research was focused on stellar astrophysics, with an emphasis on open clusters studied through large photometric surveys. I investigated the open cluster NGC 1039 using data from the [J-PLUS](https://www.j-plus.es/) survey (Javalambre Photometric Local Universe Survey), applying color-magnitude diagrams and isochrone fitting to determine physical parameters such as metallicity, age, reddening, and distance, under the supervision of Simone Daflon dos Santos. This project was awarded Best Work at the Observatório Nacional's Undergraduate Research Symposium (JICON) in both 2024 and 2025.
