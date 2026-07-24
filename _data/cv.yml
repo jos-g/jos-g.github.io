@@ -4,8 +4,7 @@ cv:
   email: josegcj@on.br
   location: Rio de Janeiro, Brazil
   image: ""
-  summary: Master's student in Astronomy at the Observatório Nacional (ON), Brazil, researching stellar astrophysics with an emphasis on open clusters studied through large photometric surveys.
-
+  summary: Master's student in Astronomy at the Observatório Nacional (ON), Brazil.
   social_networks:
     - network: ORCID
       username: 0000-0002-7632-0946
@@ -27,15 +26,7 @@ cv:
         start_date: 2026
         end_date: present
         highlights:
-          - Continuing research on open clusters through large photometric surveys, building on undergraduate work on NGC 1039.
-
-      - institution: Universidade do Estado do Rio de Janeiro (UERJ)
-        location: Rio de Janeiro, Brazil
-        area: Physics
-        studyType: Teaching Licentiate (Licenciatura)
-        start_date: 2020
-        end_date: present
-
+          - Milky way dynamics
       - institution: Universidade do Estado do Rio de Janeiro (UERJ)
         location: Rio de Janeiro, Brazil
         area: Physics
@@ -51,7 +42,7 @@ cv:
         position: CNPq Undergraduate Research Fellow
         location: Rio de Janeiro, Brazil
         start_date: 2023
-        end_date: present
+        end_date: 2026
         summary: Research in stellar astrophysics, focusing on open clusters studied through large photometric surveys.
         highlights:
           - "Analysis of the open cluster NGC 1039 using photometric data from the J-PLUS survey (Javalambre Photometric Local Universe Survey), determining metallicity, age, reddening, and distance via color-magnitude diagrams and isochrone fitting."
@@ -134,4 +125,4 @@ cv:
         summary: "Native speaker"
 
       - name: English
-        summary: "Fluent"
+        summary: "Comprehends Well, Speaks Well, Reads Well, Writes Well."
