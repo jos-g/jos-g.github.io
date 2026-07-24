@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Open Cluster NGC 1039
+title: Cluster Analyses with J-PLUS DATA: The case of NGC 1039
 description: Photometric analysis of an open cluster using J-PLUS survey data
 img:
 importance: 1
@@ -12,4 +12,4 @@ Analysis of the open cluster NGC 1039 using photometric data from the [J-PLUS](h
 
 Through color-magnitude diagrams (CMDs) and isochrone fitting, this project determines the cluster's physical parameters — metallicity, age, reddening, and distance. The work began as an undergraduate research project at the Observatório Nacional (ON) under the supervision of Simone Daflon dos Santos, and continues as part of my Master's research in Astronomy.
 
-The project was awarded Best Work at the Observatório Nacional's Jornada de Iniciação Científica (JICON) in both 2024 and 2025, and has been presented at the 19th S-PLUS Collaboration Meeting (2024) and the XLVIII Annual Meeting of the Brazilian Astronomical Society (SAB, 2025) {% cite chaves2025sab %} {% cite chaves2024splus %}.
+The project was awarded Best Work at the Undergraduate Awards at Observatório Nacional (JICON) in both 2024 and 2025, and has been presented at the 19th S-PLUS Collaboration Meeting (2024) and the XLVIII Annual Meeting of the Brazilian Astronomical Society (SAB, 2025).
