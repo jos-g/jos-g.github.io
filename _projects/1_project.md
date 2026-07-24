@@ -1,4 +1,4 @@
-'---
+---
 layout: page
 title: "Cluster Analyses with J-PLUS DATA: The case of NGC 1039"
 description: Photometric analysis of an open cluster using J-PLUS survey data
